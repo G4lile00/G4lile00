@@ -12,7 +12,7 @@
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 </div>
   <div>
-  ## Contact me !!!
+## Contact me !!!
   </div>
 <div> 
     <a href = "mailto:vitor.vicente2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
