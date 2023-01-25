@@ -15,8 +15,9 @@
   ## Contact me !!!
   </div>
 <div> 
-  <a href="https://www.linkedin.com/in/vitor-vicente-762717233/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" style="height:36px"></a>
-  <a href = "mailto:vitor.vicente2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:vitor.vicente2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-vicente-762717233/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" style="height:32px"></a>
+
  
 </div>
 
