@@ -11,9 +11,9 @@
   <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
 </div>
-  <div>
-## Contact me !!!
-  </div>
+
+  <h2>Contact me !!!</h2>
+  
 <div> 
     <a href = "mailto:vitor.vicente2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-vicente-762717233/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" style="height:32px"></a>
