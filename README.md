@@ -1,9 +1,10 @@
 ## Welcome to vicente's github !!
 <div>
   <a href="https://github.com/G4lile00">
-  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=G4lile00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4lile00&layout=compact&langs_count=7&theme=radical"/>
-</div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=G4lile00&theme=ayu-mirage&hide_border=true&exclude_days=Sun%2CSat&excludeDaysLabel=EBEBEB00" />
+
+    
+   </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
